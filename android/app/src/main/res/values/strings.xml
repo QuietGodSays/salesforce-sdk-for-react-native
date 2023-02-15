@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SalesforceSdkForReactNative</string>
+
+    <string name="no_agents_available_state">There are no active agents at the moment. Please contact us later.</string>
+    <string name="unknown_state">Unable to get agents availability. Please try again later.</string>
+    <string name="enter_first_name">Please enter your first name</string>
+    <string name="enter_last_name">Please enter your last name</string>
+    <string name="enter_email">Please enter your email</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="email">Email</string>
+
+    <!-- Standard Salesforce Live Chat strings available to be overwritten -->
+    <string name="pre_chat_toolbar_title">Live Chat</string>
+</resources>
