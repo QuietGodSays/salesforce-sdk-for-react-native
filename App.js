@@ -124,10 +124,10 @@ const styles = StyleSheet.create({
 const launchChat = () => {
   SalesforceChatModule.initializePreChatUserData();
   SalesforceChatModule.configureChat(
-    '00D6F000002JnPw',
-    '5736F000000kOPs',
-    '5726F000000kNrE',
-    'd.la1-c2-hnd.salesforceliveagent.com',
+    'Your org Id',
+    'Your button Id',
+    'Your deployment Id',
+    'Your live pod',
     'Customer',
   );
   SalesforceChatModule.openChat(
